@@ -2,9 +2,9 @@
 
 ### General overview:
 
-![Twitter NER Diagram](assets/spanish_ner.drawio.png)
+![Twitter NER Diagram](assets/twitter_ner.png)
 
-![Kaggle](https://www.kaggle.com/competitions/late-ucsb-cs190i-hw4-ner-on-twitter-data/leaderboard)
+[Kaggle](https://www.kaggle.com/competitions/late-ucsb-cs190i-hw4-ner-on-twitter-data/leaderboard)
 
 ##### running inference (this produces test_ans.csv, everything else should be configured)
 `python inference.py` 
